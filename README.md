@@ -1,68 +1,82 @@
-# n8n Automation Library (1558+ Workflows)
+# 🚀 n8n Automation Library (1558+ Workflows)
 
-This repository includes documentation, workflow categories, integration references and 3 free sample workflows from the full 1558+ workflow automation library.
+A production-ready automation library including AI agents, CRM flows, integrations, billing systems, notification pipelines, data tools, and more.
 
-## Free Sample Workflows
+This repository contains:
 
-Located in /examples/:
+- Example workflows  
+- Documentation files  
+- Categories & integration guides  
+- Setup instructions  
+- Style, naming and architecture conventions  
 
-- workflow_1.json — CRM Lead Enrichment  
-- workflow_2.json — Telegram to Google Sheets sync  
-- workflow_3.json — AI Auto-Tagger (GPT based)
+For the full ecosystem, see the Documentation Hub below.
 
-## Documentation
+---
 
-### Setup Guide  
-Located in /docs/setup_guide.md
+## 📘 Documentation Hub (Notion)
 
-Contents:
+All documentation, workflow categorization, setup guides, examples, naming conventions and the full library reference are available here:
+
+👉 http://bit.ly/4qXDwjZ
+
+This page includes:
+
+- 3 Example workflows  
+- Full category list  
+- Setup guide  
+- Integration guide  
+- Naming conventions  
+- Environment & API advice  
+- Architecture notes  
+- Full library reference  
+
+(Complies with Reddit + GitHub external linking rules.)
+
+---
+
+## 🧩 Example Workflows
+
+**Inside `/examples/`:**
+
+- `workflow_1.json` — CRM Lead Enrichment  
+- `workflow_2.json` — Telegram → Google Sheets Sync  
+- `workflow_3.json` — AI Auto-Tagger (GPT-based)
+
+These samples demonstrate the structure, conventions and flow style of the full library.
+
+---
+
+## 📂 Documentation Files
+
+**`/docs/setup_guide.md`**  
 - Import instructions  
 - Credential setup  
-- Environment recommendations  
-- API best practices
+- Environment management  
+- Recommended best practices  
 
-### Workflow Categories  
-Located in /docs/categories.md
+**`/docs/integrations.md`**  
+- Telegram  
+- Slack  
+- Google Sheets  
+- Stripe  
+- Webhooks  
 
-Includes:
-- CRM automations  
-- Messaging integrations  
-- AI agent flows  
-- Spreadsheets & databases  
-- Billing & payments  
-- Monitoring & alerts  
-- Data pipelines  
-- 100+ SaaS tools
+**`/docs/categories.md`**  
+- Full workflow category list  
 
-### Integrations  
-Located in /docs/integrations.md
+---
 
-Includes:
-- API references  
-- Trigger types  
-- Webhooks and polling  
-- Credential configuration
+## 📦 Full Library (Starter / Pro / Ultimate)
 
-## Full Library
+The complete JSON library (1558+ workflows) is distributed through the official release page:
 
-The full 1558-workflow library includes:
-- AI automation  
-- CRM systems  
-- Billing automation  
-- E-commerce pipelines  
-- Marketing automation  
-- Monitoring systems  
-- Data engineering flows  
-- 100+ SaaS integrations  
-- Complete JSON library (1558 files)
+👉 **https://workflowslab.gumroad.com/**
 
-The direct download link is located inside the Notion documentation page
-(to comply with Reddit and GitHub linking policies).
+(Distribution link — no direct workflow files shared here to comply with Reddit & GitHub rules)
 
-## Contributing
+---
 
-Pull requests for documentation improvements are welcome.
+## 🧑‍💻 Contributing
 
-## License
-
-Documentation is provided as-is for educational use.
+Feel free to submit improvements or additional integrations via pull request or issue.
