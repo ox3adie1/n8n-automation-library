@@ -1,0 +1,7 @@
+{
+  "name": "Telegram Sheets Sync",
+  "steps": [
+    "Listen TG",
+    "Append to GSheets"
+  ]
+}

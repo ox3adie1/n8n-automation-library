@@ -1,0 +1,8 @@
+{
+  "name": "CRM Lead Enrichment",
+  "steps": [
+    "Fetch lead",
+    "Enrich with API",
+    "Push to CRM"
+  ]
+}

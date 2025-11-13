@@ -1,0 +1,8 @@
+{
+  "name": "AI Auto Tagger",
+  "steps": [
+    "Read row",
+    "GPT tag",
+    "Write back"
+  ]
+}

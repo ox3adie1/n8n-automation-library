@@ -1,0 +1,3 @@
+# Integrations
+
+Slack, Telegram, GPT, Sheets, Stripe, Shopify...

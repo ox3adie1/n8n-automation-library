@@ -1,0 +1,3 @@
+# Categories
+
+CRM, AI, Billing, E‑commerce, Sheets, Alerts...
